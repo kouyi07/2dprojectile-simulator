@@ -2,7 +2,7 @@
 
 An interactive 2D projectile simulator built in MATLAB App Designer. It animates a projectile's trajectory in real time, detects whether it clears a rectangular obstacle, and calculates the minimum/maximum velocity or launch angle required to hit it.
 
-![App Demo](assets/demo.gif)
+![App Demo](media/appdemo.gif)
 
 ## Features
 
