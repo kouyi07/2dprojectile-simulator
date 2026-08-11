@@ -56,7 +56,7 @@ projectile-simulator/
 
 ## Authors
 
-- Pang Kou Yi
+- Pang Kou Yi, http://www.linkedin.com/in/pang-kou-yi
 - Gan Wei Hang
 
 ## License
