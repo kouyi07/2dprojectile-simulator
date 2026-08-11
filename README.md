@@ -38,7 +38,7 @@ When installing MATLAB, make sure **Symbolic Math Toolbox** is checked in the pr
 
 ## Getting Started
 
-Open `app/assignmentgroup8.mlapp` in App Designer to run the app, or view `code-export/assignmentgroup8.m` for a plain-text read of the app's code.
+Open `app/projectile_simulator.mlapp` in App Designer to run the app, or view `code-export/projectile_simulator.m` for a plain-text read of the app's code.
 4. Click **Run**, enter your parameters, and click **START**.
 
 ## Repository Structure
@@ -46,11 +46,11 @@ Open `app/assignmentgroup8.mlapp` in App Designer to run the app, or view `code-
 ```
 projectile-simulator/
 ├── app/
-│   └── assignmentgroup8.mlapp     # Main app
+│   └── projectile_simulator.mlapp # Main app
 ├── code-export/
-│   └── assignmentgroup8.m         # Readable code export of the app (for reference/browsing)
-├── assets/
-│   └── demo.gif                   # App demo recording
+│   └── projectile_simulator.m     # Readable code export of the app (for reference/browsing)
+├── media/
+│   └── appdemo.gif                # App demo recording
 └── README.md
 ```
 
