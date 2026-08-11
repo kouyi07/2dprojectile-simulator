@@ -1,0 +1,14 @@
+# MATLAB autosave / temp files
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE folders
+.vscode/
